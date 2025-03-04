@@ -9,7 +9,7 @@ Características Principales
   Sorteo aleatorio de un amigo secreto
   Interfaz simple e intuitiva
 
-🛠️ Tecnologías Utilizadas
+Tecnologías Utilizadas
 
   HTML5
   CSS3
